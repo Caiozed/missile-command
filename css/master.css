@@ -1,0 +1,13 @@
+#canvas {
+  margin: auto;
+  display: block;
+}
+
+#play {
+  margin: 10px auto;
+  display: block;
+  background: black;
+  width: 40%;
+  font-size: 30px;
+  color: white;
+}
